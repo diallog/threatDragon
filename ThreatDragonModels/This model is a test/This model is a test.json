@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "This model is a test",
+    "owner": "Diallo Gentry",
+    "description": "Early exploration of Threat Dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "00_Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Someone Other Than Diallo"
+  }
+}
