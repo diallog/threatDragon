@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test model",
-    "owner": "Diallo Gentry"
+    "owner": "Diallo Gentry",
+    "description": "Detailed description of the analyzed system."
   },
   "detail": {
     "contributors": [],
