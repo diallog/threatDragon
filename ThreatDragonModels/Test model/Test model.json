@@ -5,7 +5,11 @@
     "description": "Detailed description of the analyzed system."
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Lee Adama"
+      }
+    ],
     "diagrams": [],
     "reviewer": "Diallo Gentry"
   }
